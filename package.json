@@ -1,0 +1,8 @@
+{
+  "name": "TypeChain",
+  "version": "1.0.0",
+  "description": "TypeChain",
+  "main": "index.js",
+  "author": "Ricky Choi",
+  "license": "MIT"
+}
